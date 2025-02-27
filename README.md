@@ -66,38 +66,4 @@ Want to listen to *our* mixtapes?
 ... or for countries where Tidal isn't available:
 https://open.spotify.com/user/31smny3k6o3kbqmmyzwebplayhda?si=8kq-n_8aRNOieXAOQJoleQ
 
-## Rock 'N' Roll Band
 
-If we were a rock 'n' roll band,
-We'd travel all over the land.
-We'd play and we'd sing and wear spangly things.
-If we were a rock 'n' roll band.
-If we were a rock 'n' roll band,
-And we were up there on the stand,
-The people would here us and love us and cheer us.
-Hurray for that rock 'n' roll band.
-If we were a rock 'n' roll band,
-Then we'd have a million fans.
-We'd giggle and laugh and sign autographs,
-If we were a rock 'n' roll band.
-If we were a rock 'n' roll band.
-The people would all kiss our hands.
-We'd be millionaires and have extra long hair,
-If we were a rock 'n' roll band.
-But we ain't no rock 'n' roll band,
-We're just seven kids in the sand.
-With homemade guitars and pails and jars
-And drums of potato chip cans.
-Just seven kids in the sand.
-Talk'n and waven' our hands.
-And dreamin' and thinkin' oh wouldn't it be grand,
-If we were a rock 'n' roll band.
-
-Shel Silverstein
-
-## Thanks!
-
-And as always, thanks so much for your support and letting
-us do what we love!
-
-<3 Your friends at SymfonyCasts
