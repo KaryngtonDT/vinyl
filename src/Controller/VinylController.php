@@ -7,7 +7,7 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class VinylController
 {
-    #[Route('/')]
+    #[Route('/x')]
     public  function  homepage():Response{
 
 
